@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CarShopWinForm/1.0.0": {
+        "dependencies": {
+          "CarStoreCommonLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CarShopWinForm.dll": {}
+        }
+      },
+      "CarStoreCommonLibrary/1.0.0": {
+        "runtime": {
+          "CarStoreCommonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarShopWinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarStoreCommonLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.exe
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.deps.json
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.runtimeconfig.json
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.runtimeconfig.dev.json
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.dll
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreConsoleApp.pdb
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreCommonLibrary.dll
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\bin\Debug\netcoreapp3.1\CarStoreCommonLibrary.pdb
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.AssemblyInfo.cs
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.csproj.CopyComplete
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.dll
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.pdb
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreConsoleApp\obj\Debug\netcoreapp3.1\CarStoreConsoleApp.genruntimeconfig.cache

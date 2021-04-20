@@ -1,0 +1,9 @@
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\bin\Debug\netcoreapp3.1\CarStoreCommonLibrary.deps.json
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\bin\Debug\netcoreapp3.1\CarStoreCommonLibrary.dll
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\bin\Debug\netcoreapp3.1\CarStoreCommonLibrary.pdb
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.csprojAssemblyReference.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.AssemblyInfoInputs.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.AssemblyInfo.cs
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.dll
+C:\Users\aghaie\Desktop\c#\C#ConsoleProjects\CarStore\CarStoreCommonLibrary\obj\Debug\netcoreapp3.1\CarStoreCommonLibrary.pdb
